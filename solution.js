@@ -1,3 +1,7 @@
+//changes to make:
+//add delete all
+//empty values cannot be added
+
 import express from "express";
 import bodyParser from "body-parser";
 import pg from "pg";
